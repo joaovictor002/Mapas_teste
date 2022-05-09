@@ -1,0 +1,28 @@
+X,Y,fid,CD_UF,NM_UF,SIGLA_UF,NM_REGIAO,Populacao_POPULAÇÃO ESTIMADA,Populacao_Região,icon_url
+-62.8419766193459,-10.9132172317368,"1","11",Rondônia,RO,Norte,"1815278",Norte,./0.png
+-70.4729300036381,-9.21327060807969,"2","12",Acre,AC,Norte,"906876",Norte,./0.png
+-64.6530947969112,-4.15409619382262,"3","13",Amazonas,AM,Norte,"4269995",Norte,./0.png
+-61.3919062154858,2.08271055278437,"4","14",Roraima,RR,Norte,"652713",Norte,./0.png
+-53.0714878199164,-3.98042048247306,"5","15",Pará,PA,Norte,"8777124",Norte,./1.png
+-51.962020659685,1.44746179406294,"6","16",Amapá,AP,Norte,"877613",Norte,./0.png
+-48.3312989490833,-10.1480763405579,"7","17",Tocantins,TO,Norte,"1607363",Norte,./0.png
+-45.2877726509601,-5.0722107829688,"8","21",Maranhão,MA,Nordeste,"7153262",Nordeste,./0.png
+-42.9704504988407,-7.38930362161305,"9","22",Piauí,PI,Nordeste,"3289290",Nordeste,./0.png
+-39.6157888281214,-5.09322100890356,"10","23",Ceará,CE,Nordeste,"9240580",Nordeste,./1.png
+-36.67326847682,-5.83980149146622,"11","24",Rio Grande do Norte,RN,Nordeste,"3560903",Nordeste,./0.png
+-36.8324579684455,-7.12104019316893,"12","25",Paraíba,PB,Nordeste,"4059905",Nordeste,./0.png
+-37.9976770429653,-8.32521582911943,"13","26",Pernambuco,PE,Nordeste,"9674793",Nordeste,./1.png
+-36.6248489542686,-9.51367392380319,"14","27",Alagoas,AL,Nordeste,"3365351",Nordeste,./0.png
+-37.4437894699407,-10.5837634333674,"15","28",Sergipe,SE,Nordeste,"2338474",Nordeste,./0.png
+-41.721155669703,-12.4753296595446,"16","29",Bahia,BA,Nordeste,"14985284",Nordeste,./1.png
+-44.6733613072974,-18.4561779326135,"17","31",Minas Gerais,MG,Sudeste,"21411923",Sudeste,./2.png
+-40.6685090257124,-19.5751775138149,"18","32",Espírito Santo,ES,Sudeste,"4108508",Sudeste,./0.png
+-42.6627845348421,-22.1957154639705,"19","33",Rio de Janeiro,RJ,Sudeste,"17463349",Sudeste,./2.png
+-48.7289644258368,-22.2658414359334,"20","35",São Paulo,SP,Sudeste,"46649132",Sudeste,./3.png
+-51.6166375581671,-24.6358827536975,"21","41",Paraná,PR,Sul,"11597484",Sul,./1.png
+-50.4747058847182,-27.2473977534605,"22","42",Santa Catarina,SC,Sul,"7338473",Sul,./0.png
+-53.3207595816986,-29.7045705989133,"23","43",Rio Grande do Sul,RS,Sul,"11466630",Sul,./1.png
+-54.8456031273892,-20.327302102739,"24","50",Mato Grosso do Sul,MS,Centro-oeste,"2839188",Centro-Oeste,./0.png
+-55.9121930336691,-12.9490467502999,"25","51",Mato Grosso,MT,Centro-oeste,"3567234",Centro-Oeste,./0.png
+-49.6225082443791,-16.0411922757663,"26","52",Goiás,GO,Centro-oeste,"7206589",Centro-Oeste,./0.png
+-47.7968508658353,-15.7811662182131,"27","53",Distrito Federal,DF,Centro-oeste,"3094325",Centro-Oeste,./0.png
